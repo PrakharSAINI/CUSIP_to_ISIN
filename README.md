@@ -7,6 +7,6 @@ I created my list of CUSIPs from an excel colunm, but entering a list directly w
 
 The script is in Python, and uses mainly Selenium for the web-scraping and pandas to turn the ISIN list into an excel file. 
 
-Enjoy using this if you need to convert a long list of CUSIPs into ISINs!! I had to do this for an assignment and thaught it might save somebody the trouble of creating a similar script. 
+Enjoy using this if you need to convert a long list of CUSIPs into ISINs!! I had to do this for an assignment and thought it might save somebody the trouble of creating a similar script. 
 
 Let me know if you find ways to make it faster.
